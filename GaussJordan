@@ -1,9 +1,9 @@
+# Danang Adityo Nugroho
+# 202010225185
+# TIF 3A4
+
 import numpy as np
 import sys
-
-# nama  : Danang Adityo Nugroho
-# npm   : 202010225185
-# kelas : TIF 3A4
 
 n = int(input('Masukan jumlah variabel: '))
 
